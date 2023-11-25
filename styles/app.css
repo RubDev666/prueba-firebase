@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700|Roboto+Slab:400,700&display=swap');
+
+.listado-productos {
+    background-color: #f3f3f3;
+}
+
+.contenedor {
+    max-width: 1200px;
+    width: 95%;
+    padding: 5rem 0;
+    margin: 0 auto;
+}
+
+.bg-white {
+    background-color: #FFF;
+}
+
+.titulo-producto {
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 0;
+
+    :hover {
+        cursor: pointer;
+    }
+}

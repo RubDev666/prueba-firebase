@@ -9,9 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/babel-preset-css-prop": "^11.11.0",
+    "@emotion/core": "^11.0.0",
+    "@emotion/css": "^11.11.2",
+    "@emotion/styled": "^11.11.0",
+    "babel-plugin-emotion": "^11.0.0",
+    "date-fns": "^2.30.0",
+    "firebase": "^10.6.0",
+    "next": "14.0.3",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.0.3"
+    "uuid": "^9.0.1"
   },
   "devDependencies": {
     "eslint": "^8",
